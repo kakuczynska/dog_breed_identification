@@ -1,0 +1,3 @@
+[submodule "ort_image_classification_android"]
+	path = ort_image_classification_android
+	url = https://github.com/gwang-msft/ort_image_classification_android
