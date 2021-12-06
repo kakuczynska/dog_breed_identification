@@ -10,4 +10,6 @@ Download the data and store it inside the project with labels.csv in the main di
 To train the model, run through the steps in breed_identification.ipynb. At the end, there should be dogs.onnx model available to use with ort_image_classifier app.
 
 # Run the app
-TODO
+Clone Android app submodule. Copy dogs.onnx and labels.txt to ort_image_clasification_android/app/main/src/res/raw/ and follow the steps inside the repo to build and run the app.
+
+![Buki](/images/buki.jpeg)
